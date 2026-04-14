@@ -11,4 +11,3 @@ Files:
 - Dockerfile → Builds the dinner_flask_svc_app image
 - requirements.txt → Flask dependency
 
-Done on: Tue Apr 14 17:02:06 JDT 2026
